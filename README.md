@@ -1,16 +1,19 @@
-### Hi there 👋
+## 🤖 Hello, testing... 
 
-<!--
-**rosasmortas/rosasmortas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm Eliseu and I just trying to keep improving on **development**.
 
-Here are some ideas to get you started:
+## 🎯 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Subject              | 
+| -------------------- |
+| HTML fundamentals    |
+| CSS fundamentals     |
+| JS fundamentals      |
+
+## 🔖 TODOS
+- [x] Open **GitHub Account**
+- [x] Develop first site
+- [ ] Finish up school classes
+- [ ] Learn **React** fundamentals
+- [ ] Learn **SQL** fundamentals
+- [ ] Start DIO Bootcamp
